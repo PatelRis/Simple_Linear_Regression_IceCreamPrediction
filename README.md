@@ -4,4 +4,5 @@ You own an ice cream business and you would like to create a model that could pr
 
 ## Data set:
 Independant variable X: Outside Air Temperature
+
 Dependant variable Y: Overall daily revenue generated in dollars
